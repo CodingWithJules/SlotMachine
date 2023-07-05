@@ -1,2 +1,2 @@
 # Slot Machine Project 
-Built a real world slot machine you can play by running an R function. 
+Built a real world slot machine simulation. Enjoy running through multiple simulations that output slot machine symbols and payouts. 
